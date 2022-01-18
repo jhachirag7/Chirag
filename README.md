@@ -1,5 +1,8 @@
 ### Hi there 👋
 [![Chirag's github stats](https://github-readme-stats.vercel.app/api?username=jhachirag7&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhachirag7&layout=compact)](https://github.com/jhachirag7/github-readme-stats)
+
 <!--
 **jhachirag7/jhachirag7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
